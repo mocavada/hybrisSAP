@@ -1,0 +1,7 @@
+bin/*
+log
+roles
+temp
+data
+!bin/custom
+!bin/custom/*
